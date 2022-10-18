@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/apple/static/css/main.e6c13ad2.css",
+    "main.js": "/apple/static/js/main.6d65dc6d.js",
+    "static/media/boat.jfif": "/apple/static/media/boat.c08fc2ed2d21bc1705e0.jfif",
+    "static/media/asus.jpeg": "/apple/static/media/asus.02fdf805271cbc925dd4.jpeg",
+    "index.html": "/apple/index.html",
+    "main.e6c13ad2.css.map": "/apple/static/css/main.e6c13ad2.css.map",
+    "main.6d65dc6d.js.map": "/apple/static/js/main.6d65dc6d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6d65dc6d.js"
+  ]
+}
